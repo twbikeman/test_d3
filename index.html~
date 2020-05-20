@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+  </head>
+
+  <body>
+    <div class ="container">
+      <div class = "row">
+    	<div id = "chart-area"></div>
+      </div>
+    </div>
+
+
+    <svg id = "canvas" width = "400" height = "600">
+      <rect x = "0" y = "70" width = "50" height = "50" fill = "green"/>
+     </svg>
+
+    
+    <script src ="js/d3.min.js"></script>
+    <script src ="js/main.js"></script>
+
+  </body>
+  
+  
+</html>
